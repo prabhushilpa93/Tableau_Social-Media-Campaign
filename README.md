@@ -31,12 +31,10 @@ Goal of the Dashboard
 
 •Understand theme wise performance 
 
+•Track reach of via platforms
+
+•Screenshot of the dashboard : Campaign Overview Dashboard.png
+
 Dashboard screenshot : 
 
 <img width="1308" height="797" alt="image" src="https://github.com/user-attachments/assets/41b8d7eb-cab4-4a39-baa5-cf57f3e2c4de" />
-
-
-
-•Track reach of via platforms
-
-•Screenshot of the dashboard : Superstore Analysis.png
